@@ -1,0 +1,63 @@
+/*Document-wide properties */
+body {
+	width: 90%;
+	margin: auto;
+	font-family: 'Titillium Web', sans-serif;
+}
+
+h3 {
+	text-align: center;
+	font-weight: 700;
+}
+
+h1 {
+	font-weight: 700;
+}
+
+p {
+	font-size: 1.2em;
+	width: 85%;
+	text-align: center;
+	margin: auto;
+}
+
+/*Jumbotron properties */
+.jumbotron {
+	background-image: url(NoParking.jpg);
+	background-size:cover;
+	color: #DBE9FF;
+	text-align: center;
+}
+
+.jumbotron .title {
+	text-shadow: 2px 2px 2px black;
+}
+
+/* Element properties */
+
+.textBox {
+	padding-bottom: 10px;
+}
+
+.services {
+	text-align: center;
+}
+
+.contentBox {
+	background-color: #DAE1ED;
+	padding: 25px;
+	height: 300px;
+}
+
+.services i {
+	display: block;
+	text-align: center;
+}
+
+.textContent {
+	padding: 10px;
+}
+
+.thumbnails {
+	border: none;
+}
